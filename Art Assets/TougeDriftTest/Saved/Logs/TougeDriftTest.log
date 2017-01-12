@@ -243,4 +243,512 @@ LogInit: Object subsystem initialized
 [2017.01.12-22.54.07:316][ 56]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.648
 [2017.01.12-22.54.07:316][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
 [2017.01.12-22.55.04:124][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
-[2017.01.12-22.55.04:162][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExam
+[2017.01.12-22.55.04:162][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-22.55.07:871][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RoughTerrain_StaticMesh)
+[2017.01.12-22.55.10:252][806]Cmd: DELETE
+[2017.01.12-22.55.10:252][806]Cmd: ACTOR DELETE
+[2017.01.12-22.55.10:270][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.12-22.55.10:311][806]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2017.01.12-22.55.20:647][209]LogSavePackage: Save=2599.89ms
+[2017.01.12-22.55.20:647][209]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/VehicleExampleMapCC1D559C4F0F1ED0B0933D9FF759A468.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.01.12-22.55.20:654][209]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.01.12-22.56.43:895][631]LogSavePackage: Save=2168.97ms
+[2017.01.12-22.56.43:895][631]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/VehicleExampleMap55FFE6B843E55767C6A0D394C741AFED.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.01.12-22.56.43:899][631]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.01.12-22.59.39:878][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-22.59.39:878][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-22.59.39:879][609]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 2:59:39 PM)
+[2017.01.12-22.59.39:879][609]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-22.59.39:945][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066906s)
+[2017.01.12-22.59.39:947][609]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-22.59.39:947][609]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2017.01.12-22.59.39:947][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.069029s)
+[2017.01.12-22.59.39:998][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-22.59.40:009][609]LogInit: FAudioDevice initialized.
+[2017.01.12-22.59.40:106][609]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-22.59.40:109][609]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-18.59.40
+[2017.01.12-22.59.40:109][609]LogWorld: Bringing up level for play took: 0.002490
+[2017.01.12-22.59.40:112][609]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.555
+[2017.01.12-22.59.40:112][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.00.37:326][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.00.37:366][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.10.30:368][654]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Lenovo-PC\Desktop\EngineLoop.wav)
+[2017.01.12-23.10.30:397][654]LogAudioDerivedData:Display: Building compressed audio format OGG wave EngineLoop...
+[2017.01.12-23.10.30:552][654]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/EngineLoop.EngineLoop.
+[2017.01.12-23.10.30:626][654]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Lenovo-PC\Desktop\BOV.wav)
+[2017.01.12-23.10.30:641][654]Error: Currently, only 16 bit WAV files are supported (BOV).
+[2017.01.12-23.10.33:971][654]LogAssetTools:Warning: Failed to import 'C:\Users\Lenovo-PC\Desktop\BOV.wav'. Failed to create asset '/Game/Audio/BOV'
+[2017.01.12-23.10.33:973][654]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Lenovo-PC\Desktop\ExhaustNotes.wav)
+[2017.01.12-23.10.34:019][654]LogAudioDerivedData:Display: Building compressed audio format OGG wave ExhaustNotes...
+[2017.01.12-23.10.34:877][654]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/ExhaustNotes.ExhaustNotes.
+[2017.01.12-23.10.46:184][864]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Lenovo-PC\Desktop\BlowOffValve.wav)
+[2017.01.12-23.10.46:186][864]Error: Currently, only 16 bit WAV files are supported (BlowOffValve).
+[2017.01.12-23.10.48:155][864]LogAssetTools:Warning: Failed to import 'C:\Users\Lenovo-PC\Desktop\BlowOffValve.wav'. Failed to create asset '/Game/Audio/BlowOffValve'
+[2017.01.12-23.11.12:758][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.063
+[2017.01.12-23.11.12:760][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/EngineLoop] ([1] browsable assets)...
+[2017.01.12-23.11.12:771][990]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/EngineLoop.EngineLoop]
+[2017.01.12-23.11.12:771][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/EngineLoop]
+[2017.01.12-23.11.12:822][990]LogSavePackage: Save=23.63ms
+[2017.01.12-23.11.12:822][990]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/EngineLoop_Auto1D7CD0D44479C81E848FF8299E00F50FC.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/Autosaves/Game/Audio/EngineLoop_Auto1.uasset'
+[2017.01.12-23.11.12:823][990]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/Autosaves/Game/Audio/EngineLoop_Auto1.uasset
+[2017.01.12-23.11.12:824][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/ExhaustNotes] ([1] browsable assets)...
+[2017.01.12-23.11.12:847][990]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/ExhaustNotes.ExhaustNotes]
+[2017.01.12-23.11.12:847][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/ExhaustNotes]
+[2017.01.12-23.11.12:893][990]LogSavePackage: Save=38.86ms
+[2017.01.12-23.11.12:893][990]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/ExhaustNotes_Auto1CCF9618E46C1C5783C16BCA9B2B8B85A.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/Autosaves/Game/Audio/ExhaustNotes_Auto1.uasset'
+[2017.01.12-23.11.12:900][990]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/Autosaves/Game/Audio/ExhaustNotes_Auto1.uasset
+[2017.01.12-23.11.12:900][990]LogFileHelpers: Auto-saving content packages took 0.142
+[2017.01.12-23.11.30:815][256]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Lenovo-PC\Desktop\BlowOffValve.wav)
+[2017.01.12-23.11.30:829][256]LogAudioDerivedData:Display: Building compressed audio format OGG wave BlowOffValve...
+[2017.01.12-23.11.30:880][256]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/BlowOffValve.BlowOffValve.
+[2017.01.12-23.12.08:326][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/EngineLoop" FILE="../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/EngineLoop.uasset" SILENT=true
+[2017.01.12-23.12.08:339][818]LogSavePackage: Save=10.80ms
+[2017.01.12-23.12.08:339][818]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/EngineLoop6E725B15490F26EC6C2E8DBD276E461A.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/EngineLoop.uasset'
+[2017.01.12-23.12.08:345][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/EngineLoop.uasset
+[2017.01.12-23.12.24:226][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/ExhaustNotes" FILE="../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/ExhaustNotes.uasset" SILENT=true
+[2017.01.12-23.12.24:360][875]LogSavePackage: Save=15.03ms
+[2017.01.12-23.12.24:360][875]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/ExhaustNotes8F33A0B142428F8B139F73A1AC3FEBDC.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/ExhaustNotes.uasset'
+[2017.01.12-23.12.24:363][875]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/ExhaustNotes.uasset
+[2017.01.12-23.12.32:124][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/BlowOffValve" FILE="../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/BlowOffValve.uasset" SILENT=true
+[2017.01.12-23.12.32:141][410]LogSavePackage: Save=13.08ms
+[2017.01.12-23.12.32:141][410]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/BlowOffValve25A8EE544CBE44919504BD82E9120545.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/BlowOffValve.uasset'
+[2017.01.12-23.12.32:257][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/BlowOffValve.uasset
+[2017.01.12-23.12.36:517][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/BlowOffValve" FILE="../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/BlowOffValve.uasset" SILENT=true
+[2017.01.12-23.12.36:540][691]LogSavePackage: Save=10.60ms
+[2017.01.12-23.12.36:540][691]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/BlowOffValve9C83FF6F4A4D84A80F9F288E09FD3F63.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/BlowOffValve.uasset'
+[2017.01.12-23.12.36:543][691]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/BlowOffValve.uasset
+[2017.01.12-23.14.45:446][192]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.14.45:576][192]BlueprintEditorCompileResults: Info [1797.31] Compile of AE86_VehicleBlueprint successful! [in 130 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.14.46:610][251]LogSavePackage: Save=41.23ms
+[2017.01.12-23.14.46:610][251]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprintAC8DD20348D49C77D6F63E9137B33A85.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.14.46:614][251]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.14.48:866][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.14.48:866][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.14.48:866][400]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:14:48 PM)
+[2017.01.12-23.14.48:866][400]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.14.48:920][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054060s)
+[2017.01.12-23.14.48:921][400]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.14.48:921][400]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2017.01.12-23.14.48:921][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.055421s)
+[2017.01.12-23.14.48:964][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.14.48:972][400]LogInit: FAudioDevice initialized.
+[2017.01.12-23.14.49:017][400]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.14.49:021][400]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.14.49
+[2017.01.12-23.14.49:021][400]LogWorld: Bringing up level for play took: 0.002571
+[2017.01.12-23.14.49:024][400]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.356
+[2017.01.12-23.14.49:024][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.14.53:858][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.14.53:895][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.15.00:961][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.15.00:961][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.15.00:961][371]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:15:00 PM)
+[2017.01.12-23.15.00:961][371]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.15.01:012][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051529s)
+[2017.01.12-23.15.01:013][371]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.15.01:014][371]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2017.01.12-23.15.01:014][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.052927s)
+[2017.01.12-23.15.01:055][371]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.15.01:062][371]LogInit: FAudioDevice initialized.
+[2017.01.12-23.15.01:107][371]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.15.01:110][371]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.15.01
+[2017.01.12-23.15.01:110][371]LogWorld: Bringing up level for play took: 0.002354
+[2017.01.12-23.15.01:113][371]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.445
+[2017.01.12-23.15.01:113][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.15.12:288][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.15.12:332][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.15.13:480][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.15.13:480][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.15.13:480][391]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:15:13 PM)
+[2017.01.12-23.15.13:480][391]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.15.13:530][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049304s)
+[2017.01.12-23.15.13:531][391]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.15.13:532][391]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2017.01.12-23.15.13:532][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.051129s)
+[2017.01.12-23.15.13:575][391]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.15.13:583][391]LogInit: FAudioDevice initialized.
+[2017.01.12-23.15.13:629][391]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.15.13:633][391]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.15.13
+[2017.01.12-23.15.13:633][391]LogWorld: Bringing up level for play took: 0.002422
+[2017.01.12-23.15.13:636][391]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.968
+[2017.01.12-23.15.13:636][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.16.34:981][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.16.35:019][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.20.35:061][174]LogEditorTransaction: Undo Delete current selection
+[2017.01.12-23.21.30:423][537]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.21.30:563][537]BlueprintEditorCompileResults: Info [2202.29] Compile of AE86_VehicleBlueprint successful! [in 140 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.21.31:584][598]LogSavePackage: Save=49.24ms
+[2017.01.12-23.21.31:584][598]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprintA570BF3C4226A02E410CB1ADBA55D68C.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.21.31:587][598]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.21.34:454][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.21.34:454][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.21.34:455][796]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:21:34 PM)
+[2017.01.12-23.21.34:455][796]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.21.34:511][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056054s)
+[2017.01.12-23.21.34:512][796]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.21.34:512][796]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2017.01.12-23.21.34:512][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.057654s)
+[2017.01.12-23.21.34:555][796]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.21.34:565][796]LogInit: FAudioDevice initialized.
+[2017.01.12-23.21.34:616][796]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.21.34:620][796]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.21.34
+[2017.01.12-23.21.34:620][796]LogWorld: Bringing up level for play took: 0.002319
+[2017.01.12-23.21.34:623][796]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.045
+[2017.01.12-23.21.34:623][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.21.52:846][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.21.52:884][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.22.26:294][400]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.22.26:430][400]BlueprintEditorCompileResults: Info [2258.16] Compile of AE86_VehicleBlueprint successful! [in 135 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.22.27:448][461]LogSavePackage: Save=47.89ms
+[2017.01.12-23.22.27:448][461]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprintF1858ACC4B9DA7B10AA05AA3A423A1E5.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.22.27:451][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.22.34:806][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.22.34:806][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.22.34:806][ 61]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:22:34 PM)
+[2017.01.12-23.22.34:807][ 61]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.22.34:858][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051358s)
+[2017.01.12-23.22.34:859][ 61]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.22.34:859][ 61]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2017.01.12-23.22.34:859][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.052854s)
+[2017.01.12-23.22.34:903][ 61]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.22.34:911][ 61]LogInit: FAudioDevice initialized.
+[2017.01.12-23.22.34:959][ 61]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.22.34:962][ 61]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.22.34
+[2017.01.12-23.22.34:962][ 61]LogWorld: Bringing up level for play took: 0.002584
+[2017.01.12-23.22.34:965][ 61]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.298
+[2017.01.12-23.22.34:965][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.22.39:691][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.22.39:733][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.23.02:050][765]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.23.02:189][765]BlueprintEditorCompileResults: Info [2293.92] Compile of AE86_VehicleBlueprint successful! [in 138 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.23.03:014][813]LogSavePackage: Save=47.25ms
+[2017.01.12-23.23.03:014][813]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprint4023BC7F43AB28857E727CB3425AB9FA.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.23.03:019][813]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.25.30:284][114]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.25.30:421][114]BlueprintEditorCompileResults: Info [2442.15] Compile of AE86_VehicleBlueprint successful! [in 137 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.25.31:126][150]LogSavePackage: Save=55.36ms
+[2017.01.12-23.25.31:126][150]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprintA47C4D534901981B4B3471B42CC3897F.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.25.31:129][150]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.26.07:446][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.07:447][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.26.07:447][660]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:26:07 PM)
+[2017.01.12-23.26.07:447][660]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.26.07:499][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052636s)
+[2017.01.12-23.26.07:501][660]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.26.07:501][660]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2017.01.12-23.26.07:501][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.054501s)
+[2017.01.12-23.26.07:546][660]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.26.07:556][660]LogInit: FAudioDevice initialized.
+[2017.01.12-23.26.07:604][660]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.26.07:608][660]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.26.07
+[2017.01.12-23.26.07:609][660]LogWorld: Bringing up level for play took: 0.002933
+[2017.01.12-23.26.07:611][660]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.944
+[2017.01.12-23.26.07:611][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.09:611][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.09:655][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.10:854][851]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.26.10:990][851]BlueprintEditorCompileResults: Info [2482.72] Compile of AE86_VehicleBlueprint successful! [in 135 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.26.11:632][878]LogSavePackage: Save=138.67ms
+[2017.01.12-23.26.11:632][878]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprint65305AD648D7BD14A15096ACF461A21B.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.26.11:634][878]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.26.14:181][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.14:181][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.26.14:181][ 66]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:26:14 PM)
+[2017.01.12-23.26.14:182][ 66]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.26.14:233][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051751s)
+[2017.01.12-23.26.14:234][ 66]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.26.14:234][ 66]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2017.01.12-23.26.14:235][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.053194s)
+[2017.01.12-23.26.14:277][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.26.14:286][ 66]LogInit: FAudioDevice initialized.
+[2017.01.12-23.26.14:361][ 66]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.26.14:365][ 66]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.26.14
+[2017.01.12-23.26.14:365][ 66]LogWorld: Bringing up level for play took: 0.002792
+[2017.01.12-23.26.14:368][ 66]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.3
+[2017.01.12-23.26.14:368][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.23:095][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.26.23:133][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.27.59:180][563]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.039
+[2017.01.12-23.27.59:182][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleBP/AE86/AE86_VehicleBlueprint] ([1] browsable assets)...
+[2017.01.12-23.27.59:182][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/AE86/AE86_VehicleBlueprint]
+[2017.01.12-23.27.59:231][563]LogSavePackage: Save=38.80ms
+[2017.01.12-23.27.59:232][563]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprint_Auto261C296034BC9B7D9CE434BB3DEAB1E14.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/Autosaves/Game/VehicleBP/AE86/AE86_VehicleBlueprint_Auto2.uasset'
+[2017.01.12-23.27.59:234][563]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/Autosaves/Game/VehicleBP/AE86/AE86_VehicleBlueprint_Auto2.uasset
+[2017.01.12-23.27.59:234][563]LogFileHelpers: Auto-saving content packages took 0.053
+[2017.01.12-23.28.42:416][119]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.28.42:557][119]BlueprintEditorCompileResults: Info [2634.29] Compile of AE86_VehicleBlueprint successful! [in 140 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.28.43:456][167]LogSavePackage: Save=47.72ms
+[2017.01.12-23.28.43:456][167]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprint597B700047BBB2AFE1CB459D5AF4722D.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.28.43:460][167]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.28.56:846][974]LogSavePackage: Save=39.11ms
+[2017.01.12-23.28.56:846][974]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprintD1A80C604D447BD0126BD990D81898AD.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.28.56:848][974]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.28.59:558][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.28.59:558][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.28.59:558][149]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:28:59 PM)
+[2017.01.12-23.28.59:558][149]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.28.59:613][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053966s)
+[2017.01.12-23.28.59:614][149]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.28.59:614][149]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2017.01.12-23.28.59:615][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.055772s)
+[2017.01.12-23.28.59:659][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.28.59:668][149]LogInit: FAudioDevice initialized.
+[2017.01.12-23.28.59:715][149]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.28.59:718][149]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.28.59
+[2017.01.12-23.28.59:719][149]LogWorld: Bringing up level for play took: 0.002391
+[2017.01.12-23.28.59:721][149]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.054
+[2017.01.12-23.28.59:721][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.29.19:806][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.29.19:849][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.32.43:018][873]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.32.43:159][873]BlueprintEditorCompileResults: Info [2874.89] Compile of AE86_VehicleBlueprint successful! [in 141 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.32.43:949][915]LogSavePackage: Save=52.23ms
+[2017.01.12-23.32.43:949][915]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprint78BE4BA044EF729DC37251B141169E2E.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.32.43:954][915]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.32.46:466][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.32.46:466][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.32.46:466][ 90]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:32:46 PM)
+[2017.01.12-23.32.46:466][ 90]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.32.46:530][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063781s)
+[2017.01.12-23.32.46:531][ 90]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.32.46:531][ 90]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2017.01.12-23.32.46:532][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.065528s)
+[2017.01.12-23.32.46:574][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.32.46:583][ 90]LogInit: FAudioDevice initialized.
+[2017.01.12-23.32.46:627][ 90]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.32.46:631][ 90]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.32.46
+[2017.01.12-23.32.46:631][ 90]LogWorld: Bringing up level for play took: 0.002622
+[2017.01.12-23.32.46:634][ 90]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.033
+[2017.01.12-23.32.46:635][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.33.26:132][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.33.26:172][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.33.33:087][690]LogSavePackage: Save=2207.50ms
+[2017.01.12-23.33.33:087][690]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/VehicleExampleMap245F2B754E8B65F267FF888C51AE5F69.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.01.12-23.33.33:091][690]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.01.12-23.33.38:324][953]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.33.38:463][953]BlueprintEditorCompileResults: Info [2930.19] Compile of AE86_VehicleBlueprint successful! [in 138 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.33.39:098][983]LogSavePackage: Save=69.99ms
+[2017.01.12-23.33.39:098][983]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprintF6B97A4049AA72B13DD4A4B5F0F96CEA.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.33.39:101][983]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.33.41:849][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.33.41:849][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.33.41:850][172]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:33:41 PM)
+[2017.01.12-23.33.41:850][172]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.33.41:897][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047294s)
+[2017.01.12-23.33.41:898][172]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.33.41:898][172]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2017.01.12-23.33.41:898][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.048809s)
+[2017.01.12-23.33.41:942][172]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.33.41:950][172]LogInit: FAudioDevice initialized.
+[2017.01.12-23.33.42:008][172]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.33.42:011][172]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2017.01.12-19.33.42
+[2017.01.12-23.33.42:011][172]LogWorld: Bringing up level for play took: 0.002395
+[2017.01.12-23.33.42:014][172]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.654
+[2017.01.12-23.33.42:014][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.34.26:082][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.34.26:119][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.34.30:108][675]LogSavePackage: Save=2089.06ms
+[2017.01.12-23.34.30:108][675]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/VehicleExampleMapC34D22F04CE1EEE9BE537DAE978FDEFF.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.01.12-23.34.30:112][675]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.01.12-23.34.48:938][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/EngineLoop" FILE="../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/EngineLoop.uasset" SILENT=true
+[2017.01.12-23.34.48:959][683]LogSavePackage: Save=10.03ms
+[2017.01.12-23.34.48:959][683]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/EngineLoopB5D3F01F4937808EADF40FBA858AF325.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/EngineLoop.uasset'
+[2017.01.12-23.34.48:963][683]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/Audio/EngineLoop.uasset
+[2017.01.12-23.34.51:154][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.34.51:154][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.34.51:154][813]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:34:51 PM)
+[2017.01.12-23.34.51:154][813]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.34.51:201][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047126s)
+[2017.01.12-23.34.51:202][813]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.34.51:202][813]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2017.01.12-23.34.51:202][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.048666s)
+[2017.01.12-23.34.51:246][813]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.34.51:255][813]LogInit: FAudioDevice initialized.
+[2017.01.12-23.34.51:314][813]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.34.51:317][813]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.34.51
+[2017.01.12-23.34.51:317][813]LogWorld: Bringing up level for play took: 0.002403
+[2017.01.12-23.34.51:320][813]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.652
+[2017.01.12-23.34.51:320][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.03:020][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.03:057][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.04:116][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.04:116][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.35.04:116][572]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:35:04 PM)
+[2017.01.12-23.35.04:116][572]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.35.04:164][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047431s)
+[2017.01.12-23.35.04:165][572]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.35.04:165][572]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2017.01.12-23.35.04:166][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.049021s)
+[2017.01.12-23.35.04:216][572]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.35.04:225][572]LogInit: FAudioDevice initialized.
+[2017.01.12-23.35.04:294][572]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.35.04:298][572]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.35.04
+[2017.01.12-23.35.04:298][572]LogWorld: Bringing up level for play took: 0.002541
+[2017.01.12-23.35.04:301][572]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.367
+[2017.01.12-23.35.04:301][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.24:617][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.24:652][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.36:087][399]BlueprintLog: New page: Compile AE86_VehicleBlueprint
+[2017.01.12-23.35.36:221][399]BlueprintEditorCompileResults: Info [3047.95] Compile of AE86_VehicleBlueprint successful! [in 134 ms] (/Game/VehicleBP/AE86/AE86_VehicleBlueprint.AE86_VehicleBlueprint)
+[2017.01.12-23.35.36:731][423]LogSavePackage: Save=47.10ms
+[2017.01.12-23.35.36:731][423]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/AE86_VehicleBlueprint8F715E5B43F549A525B6C89D20376209.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset'
+[2017.01.12-23.35.36:736][423]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/AE86/AE86_VehicleBlueprint.uasset
+[2017.01.12-23.35.39:367][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.35.39:367][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.35.39:367][572]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:35:39 PM)
+[2017.01.12-23.35.39:367][572]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.35.39:413][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045922s)
+[2017.01.12-23.35.39:414][572]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.35.39:414][572]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2017.01.12-23.35.39:415][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.047132s)
+[2017.01.12-23.35.39:455][572]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.35.39:463][572]LogInit: FAudioDevice initialized.
+[2017.01.12-23.35.39:526][572]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.35.39:529][572]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.35.39
+[2017.01.12-23.35.39:529][572]LogWorld: Bringing up level for play took: 0.002459
+[2017.01.12-23.35.39:532][572]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.864
+[2017.01.12-23.35.39:532][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.00:701][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.00:736][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.17:598][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.17:598][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.36.17:599][567]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:36:17 PM)
+[2017.01.12-23.36.17:599][567]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.36.17:646][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047720s)
+[2017.01.12-23.36.17:647][567]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.36.17:648][567]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2017.01.12-23.36.17:648][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.049194s)
+[2017.01.12-23.36.17:690][567]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.36.17:699][567]LogInit: FAudioDevice initialized.
+[2017.01.12-23.36.17:744][567]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.36.17:747][567]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.36.17
+[2017.01.12-23.36.17:748][567]LogWorld: Bringing up level for play took: 0.002689
+[2017.01.12-23.36.17:750][567]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.083
+[2017.01.12-23.36.17:750][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.54:282][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.54:318][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.57:044][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.36.57:044][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.36.57:045][916]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:36:57 PM)
+[2017.01.12-23.36.57:045][916]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.36.57:092][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047311s)
+[2017.01.12-23.36.57:093][916]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.36.57:093][916]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2017.01.12-23.36.57:094][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.049175s)
+[2017.01.12-23.36.57:141][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.36.57:148][916]LogInit: FAudioDevice initialized.
+[2017.01.12-23.36.57:200][916]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.36.57:204][916]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.36.57
+[2017.01.12-23.36.57:204][916]LogWorld: Bringing up level for play took: 0.003575
+[2017.01.12-23.36.57:208][916]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.54
+[2017.01.12-23.36.57:208][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.37.59:401][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.37.59:440][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.38.06:445][929]LogSavePackage: Save=2093.79ms
+[2017.01.12-23.38.06:445][929]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/VehicleExampleMap94D53EBC4321902E49D78C88D67A5496.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.01.12-23.38.06:450][929]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap
+[2017.01.12-23.38.17:996][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2017.01.12-23.38.18:714][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.38.18:714][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.38.18:715][454]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:38:18 PM)
+[2017.01.12-23.38.18:715][454]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.38.18:760][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045222s)
+[2017.01.12-23.38.18:761][454]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.38.18:761][454]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2017.01.12-23.38.18:762][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.046624s)
+[2017.01.12-23.38.18:804][454]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.38.18:812][454]LogInit: FAudioDevice initialized.
+[2017.01.12-23.38.18:861][454]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.38.18:865][454]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.38.18
+[2017.01.12-23.38.18:865][454]LogWorld: Bringing up level for play took: 0.002390
+[2017.01.12-23.38.18:867][454]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.2
+[2017.01.12-23.38.18:868][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.12:101][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.12:148][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.14:110][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.14:111][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.39.14:111][759]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:39:14 PM)
+[2017.01.12-23.39.14:111][759]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.39.14:156][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045326s)
+[2017.01.12-23.39.14:157][759]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.39.14:157][759]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2017.01.12-23.39.14:158][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.046934s)
+[2017.01.12-23.39.14:206][759]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.39.14:217][759]LogInit: FAudioDevice initialized.
+[2017.01.12-23.39.14:288][759]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.39.14:292][759]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.39.14
+[2017.01.12-23.39.14:292][759]LogWorld: Bringing up level for play took: 0.002377
+[2017.01.12-23.39.14:295][759]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.373
+[2017.01.12-23.39.14:295][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.55:858][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.55:909][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.56:902][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.39.56:902][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.39.56:902][305]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:39:56 PM)
+[2017.01.12-23.39.56:902][305]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.39.56:953][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050734s)
+[2017.01.12-23.39.56:954][305]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.39.56:954][305]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2017.01.12-23.39.56:954][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.052099s)
+[2017.01.12-23.39.56:999][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.39.57:007][305]LogInit: FAudioDevice initialized.
+[2017.01.12-23.39.57:052][305]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.39.57:056][305]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.39.57
+[2017.01.12-23.39.57:057][305]LogWorld: Bringing up level for play took: 0.003292
+[2017.01.12-23.39.57:059][305]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.392
+[2017.01.12-23.39.57:059][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.40.51:463][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.40.51:505][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.40.52:318][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.40.52:318][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.40.52:318][610]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:40:52 PM)
+[2017.01.12-23.40.52:318][610]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.40.52:366][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047501s)
+[2017.01.12-23.40.52:367][610]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.40.52:367][610]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2017.01.12-23.40.52:368][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.048983s)
+[2017.01.12-23.40.52:409][610]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.40.52:416][610]LogInit: FAudioDevice initialized.
+[2017.01.12-23.40.52:474][610]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.40.52:477][610]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.40.52
+[2017.01.12-23.40.52:477][610]LogWorld: Bringing up level for play took: 0.002462
+[2017.01.12-23.40.52:480][610]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.188
+[2017.01.12-23.40.52:480][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.10:306][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.10:349][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.12:263][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.12:263][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.41.12:263][787]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:41:12 PM)
+[2017.01.12-23.41.12:263][787]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.41.12:316][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052536s)
+[2017.01.12-23.41.12:317][787]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.41.12:317][787]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2017.01.12-23.41.12:318][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.054079s)
+[2017.01.12-23.41.12:363][787]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.41.12:370][787]LogInit: FAudioDevice initialized.
+[2017.01.12-23.41.12:451][787]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.41.12:455][787]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.41.12
+[2017.01.12-23.41.12:455][787]LogWorld: Bringing up level for play took: 0.002792
+[2017.01.12-23.41.12:458][787]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.21
+[2017.01.12-23.41.12:458][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.32:995][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.33:042][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.35:034][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.41.35:034][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-23.41.35:034][132]PIE: New page: PIE session: VehicleExampleMap (Jan 12, 2017, 3:41:35 PM)
+[2017.01.12-23.41.35:035][132]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2017.01.12-23.41.35:085][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050871s)
+[2017.01.12-23.41.35:086][132]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2017.01.12-23.41.35:087][132]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2017.01.12-23.41.35:087][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.052455s)
+[2017.01.12-23.41.35:130][132]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-23.41.35:138][132]LogInit: FAudioDevice initialized.
+[2017.01.12-23.41.35:184][132]LogWorld: Game class is 'AE86_GameMode_C'
+[2017.01.12-23.41.35:187][132]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2017.01.12-19.41.35
+[2017.01.12-23.41.35:188][132]LogWorld: Bringing up level for play took: 0.002439
+[2017.01.12-23.41.35:190][132]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.522
+[2017.01.12-23.41.35:190][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.42.25:338][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.42.25:385][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2017.01.12-23.42.29:130][226]LogSavePackage: Save=2010.45ms
+[2017.01.12-23.42.29:130][226]LogSavePackage: Moving '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Saved/VehicleExampleMap39EDDF93425BE09A411C908D3A557466.tmp' to '../../../../../../Users/Lenovo-PC/Documents/tougedrift/Art Assets/TougeDriftTest/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2017.01.12-23.42.29:138][226]LogSavePackage:Display: Finished SavePackage ../../../../.
